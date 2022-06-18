@@ -37,11 +37,15 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 - Sensor IR: 
  -> Pin de datos número 16
  -> Pin VCC a corriente de 5V
+ 
 - Buzzer : 
  -> Pin de datos número 18
+ 
 - Boton  de reset: 
  -> Pin de datos número 36
+ 
 - Boton  de vueltas: 
  -> Pin de datos número 21
+ 
 - Boton de jugador : 
  -> Pin de datos número 10
