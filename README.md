@@ -5,12 +5,12 @@
 Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2020-2022.
 
 ## Paquetes y versiones.
-- *apache2* 2.4
-- *php* 7.3
+- *apache2* (2.4)
+- *php* (7.3)
 - *php-mysql*
-- *mariadb-server* 10.3
+- *mariadb-server* (10.3)
 - *libapache2-mod-php*
-- *Python*
+- *Python 3*
 - *python3-mysqldb* (con conexion a internet no es necesario instalarlo)
 
 ## Estructura.
