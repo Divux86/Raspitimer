@@ -20,13 +20,20 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 - Necesario crear un usuario llamado "admin" con password "rasberry", en caso de querer usar otro usuario modificar todos los archivos .PHP de la carpeta /var/www/html y modificar el codigo de Python.
 
 ## Componentes necesarios.
-- RaspberryPI zero 
-- sensor IR
-- 3 botones 
-- buzzer o altavoz
+- RaspberryPI zero.
+- Sensor IR.
+- 3 botones. 
+- Buzzer o altavoz.
+- Pantalla LCD 20x4 con modulo I2C.
 
 
 ## Raspberry GPIO
+- Pantalla LCD
+ -> Pin SDA a GPIO2  
+ -> Pin SCL a GPIO3
+ -> Pin GND a tierra
+ -> Pin power a 5V
+ 
 - Sensor IR: 
  -> Pin de datos número 16
  -> Pin VCC a corriente de 5V
