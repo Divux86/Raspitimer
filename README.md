@@ -25,6 +25,7 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 - 3 botones. 
 - Buzzer o altavoz.
 - Pantalla LCD 20x4 con modulo I2C.
+- Impresora 3D en caso de querer una caja propia
 
 
 ## Raspberry GPIO
