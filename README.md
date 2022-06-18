@@ -29,7 +29,7 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 ## Raspberry GPIO
 - Sensor IR: 
  -> Pin de datos número 16
- -> Pin VCC a corriende de 5V
+ -> Pin VCC a corriente de 5V
 - Buzzer : 
  -> Pin de datos número 18
 - Boton  de reset: 
