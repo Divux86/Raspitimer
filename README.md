@@ -28,7 +28,7 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 
 
 ## Raspberry GPIO
-- Pantalla LCD
+- Pantalla LCD : 
  -> Pin SDA a GPIO2  
  -> Pin SCL a GPIO3
  -> Pin GND a tierra
