@@ -6,7 +6,7 @@ Proyecto creado por David Prado Mejuto para el trabajo de fin de grado de ASIR 2
 
 ## Paquetes y versiones.
 - *apache2* (2.4)
-- *php* (7.3)
+- *php* (7.4.28)
 - *php-mysql*
 - *mariadb-server* (10.3)
 - *libapache2-mod-php*
